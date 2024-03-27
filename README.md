@@ -1,5 +1,10 @@
 # Note Taking App with React TypeScript
 
+![image](https://github.com/Aldbow/react-typescript-note-markdown-support/assets/90434857/830bfb49-f878-4f9c-bd57-7b28d2dfc5aa)
+![image](https://github.com/Aldbow/react-typescript-note-markdown-support/assets/90434857/a732a97a-1cbe-457e-be99-366791a3d23c)
+![image](https://github.com/Aldbow/react-typescript-note-markdown-support/assets/90434857/0242c226-33b6-4c1a-a437-221444421f63)
+![image](https://github.com/Aldbow/react-typescript-note-markdown-support/assets/90434857/7cfe31da-0339-4d04-b76d-c2cf67966844)
+
 ## Overview
 
 The **Note Taking App with React TypeScript** project aims to develop a simple yet powerful note-taking application using React.js with TypeScript. The app provides users with the ability to create, edit, and organize notes seamlessly. Additionally, it supports Markdown syntax for enhanced formatting options, allowing users to create rich and structured content.
